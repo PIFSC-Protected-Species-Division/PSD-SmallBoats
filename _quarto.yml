@@ -29,7 +29,7 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "content/images/Psd_logo_NB.png"
+    logo: "Boatcontent/images/Psd_logo_NB.png"
     favicon: images/favicon.ico
     pinned: true
     align: center
@@ -49,11 +49,12 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - section: content/Requirements.qmd
-        
+      - section: Boatcontent/Requirements.qmd
+        text: Requirements
         contents: 
-          - href: content/Documents.qmd
+          - href: Boatcontent/Documents.qmd
             text: Documents
+
 
 format:
   html:

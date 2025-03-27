@@ -4,11 +4,11 @@ subtitle: "This webpage houses small boat resources for boat operators and recor
 page-layout: full
 ---
 
-![](content/images/Homepage_pic.jpg){fig-align="\"center," width="600"}
+![](Boatcontent/images/Homepage_pic.jpg){fig-align="\"center," width="600"}
 
 ## Top Links
 
--   Boat Records
+-   [Boat Master Reference](https://docs.google.com/spreadsheets/d/1w60YNq_O4G3o9WcinM-MV16-Cc9tFQcZ-yTEPtC9wms/edit?usp=drive_link){.external target="_blank"}
 -   User Documents
 
 ## Points of Contact:
