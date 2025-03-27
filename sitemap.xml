@@ -1,55 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/NMFS_OpenSciDirections/acknowledgements.html</loc>
-    <lastmod>2025-03-27T00:22:08.162Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/Requirements.html</loc>
+    <lastmod>2025-03-27T01:59:18.745Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/NMFS_OpenSciDirections/publishing.html</loc>
-    <lastmod>2025-03-27T00:22:08.168Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/NMFS_OpenSciDirections/acknowledgements.html</loc>
+    <lastmod>2025-03-27T01:59:18.739Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/NMFS_OpenSciDirections/organize.html</loc>
-    <lastmod>2025-03-27T00:22:08.168Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/NMFS_OpenSciDirections/publishing.html</loc>
+    <lastmod>2025-03-27T01:59:18.745Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/NMFS_OpenSciDirections/code.html</loc>
-    <lastmod>2025-03-27T00:22:08.163Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/NMFS_OpenSciDirections/organize.html</loc>
+    <lastmod>2025-03-27T01:59:18.745Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/NMFS_OpenSciDirections/rendering.html</loc>
-    <lastmod>2025-03-27T00:22:08.168Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/NMFS_OpenSciDirections/code.html</loc>
+    <lastmod>2025-03-27T01:59:18.740Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/Documents.html</loc>
-    <lastmod>2025-03-27T00:22:08.162Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/NMFS_OpenSciDirections/rendering.html</loc>
+    <lastmod>2025-03-27T01:59:18.745Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/About_the_IRC.html</loc>
+    <lastmod>2025-03-27T01:59:18.739Z</lastmod>
   </url>
   <url>
     <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/index.html</loc>
-    <lastmod>2025-03-27T00:22:08.170Z</lastmod>
+    <lastmod>2025-03-27T01:59:18.750Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/About_the_IRC.html</loc>
-    <lastmod>2025-03-27T00:22:08.162Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/Documents.html</loc>
+    <lastmod>2025-03-27T01:59:18.739Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/Requirments.html</loc>
-    <lastmod>2025-03-27T00:22:08.168Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/NMFS_OpenSciDirections/rmarkdown.html</loc>
+    <lastmod>2025-03-27T01:59:18.745Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/NMFS_OpenSciDirections/rmarkdown.html</loc>
-    <lastmod>2025-03-27T00:22:08.168Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/NMFS_OpenSciDirections/Getting-Started.html</loc>
+    <lastmod>2025-03-27T01:59:18.739Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/NMFS_OpenSciDirections/Getting-Started.html</loc>
-    <lastmod>2025-03-27T00:22:08.162Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/NMFS_OpenSciDirections/add-content.html</loc>
+    <lastmod>2025-03-27T01:59:18.739Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/NMFS_OpenSciDirections/add-content.html</loc>
-    <lastmod>2025-03-27T00:22:08.162Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/NMFS_OpenSciDirections/Intro.html</loc>
+    <lastmod>2025-03-27T01:59:18.739Z</lastmod>
   </url>
   <url>
-    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/content/NMFS_OpenSciDirections/Intro.html</loc>
-    <lastmod>2025-03-27T00:22:08.162Z</lastmod>
+    <loc>https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/BoatRecords.html</loc>
+    <lastmod>2025-03-27T01:59:18.739Z</lastmod>
   </url>
 </urlset>
