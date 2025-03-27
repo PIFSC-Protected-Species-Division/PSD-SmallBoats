@@ -1,0 +1,31 @@
+---
+title: "Documents"
+format: html
+---
+
+The following administrative documents must be carried on board all vessels or filed ashore prior to getting underway. 
+
+##  General
+-   [Small Boat Standards and Procedures Manual 4.2 (SBS&PM)](https://drive.google.com/file/d/1jgDs4ywqKSD_fk4wWVu4S_iZJNfNVMz5/view?usp=sharing){.external target="_blank"}
+
+##  Boat-Specific (See individual boat pages)
+-   Small Boat Operations Manual (SBOM) [Template](https://docs.google.com/document/d/1WqD3uDFbNv_2n61T5WgVuU9Wf3Y8x69l/edit?usp=share_link&ouid=104047957407977746802&rtpof=true&sd=true)
+-   Baseline Risk Assessment (Reviewed Annually). [Template](https://drive.google.com/file/d/12K85uVsmI0bYEleJ8kRPAL1hnwegkn3L/view?usp=share_link){.external target="_blank"}
+-   Mission Based Risk Assessment (Updated when change in operation) [Template](https://drive.google.com/file/d/1vKVCCzhRvBNM8ZWKobVU9A6Hy4RJ8hAT/view?usp=share_link)
+-   Small Boat Log [Template](https://drive.google.com/file/d/1NiUy749rCCiyC5R_66L3gV044biron_5/view?usp=share_link)
+    - [Official Logbook Entry Requirements](https://drive.google.com/file/d/1FGa4Xm4B0NBb5lAdXARf0saZ9FG2Ag9K/view?usp=sharing)
+-   Stability Log [Template](https://drive.google.com/file/d/1aa01SKsBUYuGihuCDPMtPVOKFs2i2ieB/view?usp=share_link)
+
+##  Daily Forms
+-   [Float Plan](https://drive.google.com/file/d/1EBD5xQRL1HT2YWSQelvDUFBwDlnlT9RU/view?usp=share_link)
+-   [GAR Risk Assessment](https://drive.google.com/file/d/1EBD5xQRL1HT2YWSQelvDUFBwDlnlT9RU/view?usp=share_link)
+-   [Safety Briefing](https://drive.google.com/file/d/1EBD5xQRL1HT2YWSQelvDUFBwDlnlT9RU/view?usp=share_link)
+
+##  Placards
+-   All motorized small boats must have a sign or placard, prohibiting the discharge of oil or oily waste per 33 CFR 155.450. These signs can be purchased at most marine supply stores.
+-   All motorized small boats must have a sign or placard, listing regulations for discharging garbage per Annex V of MARPOL. These signs can be purchased at most marine supply stores.
+
+
+
+
+
