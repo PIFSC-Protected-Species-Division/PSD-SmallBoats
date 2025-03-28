@@ -1,0 +1,8 @@
+---
+title: "Equipment"
+format: html
+---
+
+![](images/Equipment1.png){fig-align="\"center," width="600"}
+![](images/Equipment2.png){fig-align="\"center," width="600"}
+![](images/Equipment3.png){fig-align="\"center," width="600"}

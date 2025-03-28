@@ -3,5 +3,5 @@ title: "General Requirments"
 format: html
 ---
 
--   [Documents]
+-   [Documents](https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/Documents.html)
 -   [Training]

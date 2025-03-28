@@ -9,13 +9,11 @@ page-layout: full
 ## Top Links
 
 -   [Boat Master Reference](https://docs.google.com/spreadsheets/d/1w60YNq_O4G3o9WcinM-MV16-Cc9tFQcZ-yTEPtC9wms/edit?usp=drive_link){.external target="_blank"}
--   User Documents
+-   [NOAA Small Boat Program](https://sites.google.com/a/noaa.gov/noaa-small-boat-program/home){.external target="_blank"}
 
 ## Points of Contact:
 
 -   **PSD Vessel Operations Coordinator:** Hope Ronco, hope.ronco\@noaa.gov
 -   **Vessel Program Coordinator:** Chad Yoshinaga, chad.yoshinaga\@noaa.gov
 
-## How to use this manual
 
-Each menu on the left-hand panel is broken down into sub-pages to guide field staff to applicable protocols, links, and documents for each topic. Field staff must request access to the "Protocols - ALL PMNM Field Camps 2025" Google Drive folder to view most links.

@@ -2,17 +2,23 @@
 title: "BoatRecords"
 format: html
 ---
+##  Wings (Class A)
+-   [F1536 - Whale Wing](https://drive.google.com/drive/folders/1ATVfNdycdNTTMt98lHnYRNUJGvKMWwSa?usp=drive_link){.external target="_blank"}
+-   [F1535 - FFS2 Wing](https://drive.google.com/drive/folders/1MwnZYz_9AarffUh69Xf7XHUQ-QR3uPG-?usp=drive_link){.external target="_blank"}
+-   [F1534 - PHR2 Wing](https://drive.google.com/drive/folders/1LvzQCaVItsXU-dMTK1csSMwsnf4vBJhb?usp=drive_link){.external target="_blank"}
 
+##  RHIBs (Class I)
 -   [F1931 - Iwalua](https://drive.google.com/drive/folders/1USKgah3apHBV-HvSxCpbslMPXInnVxRj?usp=drive_link){.external target="_blank"}
 -   [F1924 - Iwa](https://drive.google.com/drive/folders/181C7kxQ2tAECodC5xqunzAzg0DGTwFav?usp=drive_link){.external target="_blank"}
 -   [F1823 - Elele](https://drive.google.com/drive/folders/1StWLpA78C_9oeHqE-Nb7SWwU4LVUTrnd?usp=drive_link){.external target="_blank"}
 -   [F1822 - Kukini](https://drive.google.com/drive/folders/13e1IfQUZj2siFDa8t7b4TR29D4Q2tZsS?usp=drive_link){.external target="_blank"}
--   [F1536 - Whale Wing](https://drive.google.com/drive/folders/1ATVfNdycdNTTMt98lHnYRNUJGvKMWwSa?usp=drive_link){.external target="_blank"}
--   [F1535 - FFS2 Wing](https://drive.google.com/drive/folders/1MwnZYz_9AarffUh69Xf7XHUQ-QR3uPG-?usp=drive_link){.external target="_blank"}
--   [F1534 - PHR2 Wing](https://drive.google.com/drive/folders/1LvzQCaVItsXU-dMTK1csSMwsnf4vBJhb?usp=drive_link){.external target="_blank"}
+
+##  MHI Kayaks (Class A)
 -   [F1219 - Harting](https://drive.google.com/drive/folders/1jFuxrryyAgFZp7DTf_ObXJLLc5B9Np0N?usp=drive_link){.external target="_blank"}
 -   [F1214 - Dunlap](https://drive.google.com/drive/folders/11Bm_DXAbQ1oBDZRGN2wc2A3yGunMp7Hb?usp=drive_link){.external target="_blank"}
 -   [F1213 - Billand](https://drive.google.com/drive/folders/1hf5-se8-qy-ckpgqTSyhsbCcATgr1ROT?usp=drive_link){.external target="_blank"}
+
+##  NWHI Kayaks (Class A)
 -   [F0902 - FFS Kayak](https://drive.google.com/drive/folders/1qEScWhL2Vx8DgAj_h-YK5NjJ8IK99P_t?usp=drive_link){.external target="_blank"}
 -   [F0901 - PHR Seeker](https://drive.google.com/drive/folders/1r1bkzJXr0MEjDqKrbSVmpbtE9GTyPaln?usp=drive_link){.external target="_blank"}
 

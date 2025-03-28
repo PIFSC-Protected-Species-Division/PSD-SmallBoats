@@ -54,8 +54,17 @@ website:
         contents: 
           - href: Boatcontent/Documents.qmd
             text: Documents
-
-
+          - href: Boatcontent/Training.qmd
+            text: Training
+          - href: Boatcontent/Equipment.qmd
+            text: Equipment
+      - section: Boatcontent/Boats.qmd
+        text: Boats
+        contents: 
+          - href: Boatcontent/BoatRecords.qmd
+            text: Records
+          - href: Boatcontent/Training.qmd
+            text: Training
 format:
   html:
     theme:
