@@ -4,7 +4,7 @@
     "href": "Boatcontent/Requirements.html",
     "title": "General Requirments",
     "section": "",
-    "text": "[Documents]\n[Training]",
+    "text": "Documents\n[Training]",
     "crumbs": [
       "Requirements"
     ]
@@ -168,7 +168,7 @@
     "href": "index.html#top-links",
     "title": "PSD Small Boats",
     "section": "Top Links",
-    "text": "Top Links\n\nBoat Master Reference\nUser Documents",
+    "text": "Top Links\n\nBoat Master Reference\nNOAA Small Boat Program",
     "crumbs": [
       "Home"
     ]
@@ -179,16 +179,6 @@
     "title": "PSD Small Boats",
     "section": "Points of Contact:",
     "text": "Points of Contact:\n\nPSD Vessel Operations Coordinator: Hope Ronco, hope.ronco@noaa.gov\nVessel Program Coordinator: Chad Yoshinaga, chad.yoshinaga@noaa.gov",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#how-to-use-this-manual",
-    "href": "index.html#how-to-use-this-manual",
-    "title": "PSD Small Boats",
-    "section": "How to use this manual",
-    "text": "How to use this manual\nEach menu on the left-hand panel is broken down into sub-pages to guide field staff to applicable protocols, links, and documents for each topic. Field staff must request access to the “Protocols - ALL PMNM Field Camps 2025” Google Drive folder to view most links.",
     "crumbs": [
       "Home"
     ]
@@ -246,6 +236,17 @@
     "crumbs": [
       "Requirements",
       "Documents"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/Training.html#training",
+    "href": "Boatcontent/Training.html#training",
+    "title": "Training",
+    "section": "Training",
+    "text": "Training\nStep 1: Review the NOAA Small Boat Standards and Procedures Manual, and then take the SBS&PM Policy Test either here via Google Form or over in CLC. Email the date(s) only of your review & passing test score to hope.ronco@noaa.gov. The test was updated recently so please take it regardless of the timing of your previous review/test.\nAdditional Trainings:\n\nHawaii Boat Safety Course(8 hours online, email cert to hope.ronco@noaa.gov and lizabeth.kashinsky@noaa.gov)\nMOCC\nNOAA Component\nOpen Water Module (OWM)\nPQS on camp boats",
+    "crumbs": [
+      "Requirements",
+      "Training"
     ]
   },
   {
@@ -351,6 +352,54 @@
     "href": "Boatcontent/BoatRecords.html",
     "title": "BoatRecords",
     "section": "",
-    "text": "F1931 - Iwalua\nF1924 - Iwa\nF1823 - Elele\nF1822 - Kukini\nF1536 - Whale Wing\nF1535 - FFS2 Wing\nF1534 - PHR2 Wing\nF1219 - Harting\nF1214 - Dunlap\nF1213 - Billand\nF0902 - FFS Kayak\nF0901 - PHR Seeker"
+    "text": "F1536 - Whale Wing\nF1535 - FFS2 Wing\nF1534 - PHR2 Wing",
+    "crumbs": [
+      "Boatcontent/Boats.qmd",
+      "Records"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/BoatRecords.html#wings-class-a",
+    "href": "Boatcontent/BoatRecords.html#wings-class-a",
+    "title": "BoatRecords",
+    "section": "",
+    "text": "F1536 - Whale Wing\nF1535 - FFS2 Wing\nF1534 - PHR2 Wing",
+    "crumbs": [
+      "Boatcontent/Boats.qmd",
+      "Records"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/BoatRecords.html#rhibs-class-i",
+    "href": "Boatcontent/BoatRecords.html#rhibs-class-i",
+    "title": "BoatRecords",
+    "section": "RHIBs (Class I)",
+    "text": "RHIBs (Class I)\n\nF1931 - Iwalua\nF1924 - Iwa\nF1823 - Elele\nF1822 - Kukini",
+    "crumbs": [
+      "Boatcontent/Boats.qmd",
+      "Records"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/BoatRecords.html#mhi-kayaks-class-a",
+    "href": "Boatcontent/BoatRecords.html#mhi-kayaks-class-a",
+    "title": "BoatRecords",
+    "section": "MHI Kayaks (Class A)",
+    "text": "MHI Kayaks (Class A)\n\nF1219 - Harting\nF1214 - Dunlap\nF1213 - Billand",
+    "crumbs": [
+      "Boatcontent/Boats.qmd",
+      "Records"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/BoatRecords.html#nwhi-kayaks-class-a",
+    "href": "Boatcontent/BoatRecords.html#nwhi-kayaks-class-a",
+    "title": "BoatRecords",
+    "section": "NWHI Kayaks (Class A)",
+    "text": "NWHI Kayaks (Class A)\n\nF0902 - FFS Kayak\nF0901 - PHR Seeker",
+    "crumbs": [
+      "Boatcontent/Boats.qmd",
+      "Records"
+    ]
   }
 ]
