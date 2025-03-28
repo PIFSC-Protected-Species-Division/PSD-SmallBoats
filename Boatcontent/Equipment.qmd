@@ -6,3 +6,9 @@ format: html
 ![](images/Equipment1.png){fig-align="\"center," width="600"}
 ![](images/Equipment2.png){fig-align="\"center," width="600"}
 ![](images/Equipment3.png){fig-align="\"center," width="600"}
+
+
+
+[E-Kit Inventories](https://drive.google.com/file/d/174vEo1PIzSpAfXk7DOvUZVW_gR09pVqH/view?usp=drive_link){.external target="_blank"}
+
+
