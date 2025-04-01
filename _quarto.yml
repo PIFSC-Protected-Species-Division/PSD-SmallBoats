@@ -63,8 +63,7 @@ website:
         contents: 
           - href: Boatcontent/BoatRecords.qmd
             text: Records
-          - href: Boatcontent/Training.qmd
-            text: Training
+
 format:
   html:
     theme:
