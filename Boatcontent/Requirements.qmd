@@ -4,4 +4,5 @@ format: html
 ---
 
 -   [Documents](https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/Documents.html)
--   [Training]
+-   [Training](https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/Training.html)
+-   [Equipment](https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/Equipment.html)
