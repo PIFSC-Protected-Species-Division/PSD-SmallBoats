@@ -19,6 +19,8 @@ format: html
 -   MOCC
 -   NOAA Component
 -   Open Water Module (OWM)
--   PQS on camp boats
+-   PQS:
+    - [NWHI Field Camp PQS](https://docs.google.com/document/d/1nDJvj6X5NPyWEE5J8D0v2NPDWdXy-hNx/edit?usp=sharing&ouid=111160936144270501572&rtpof=true&sd=true)
+
 
 [NOAA Small Boat Operator and Crewmember Authorization Form](https://drive.google.com/file/d/1n1N9PW5Lz-wty3Gp1lS4d1IqKs_GVk3g/view?usp=sharing){.external target="_blank"}

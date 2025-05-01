@@ -1,0 +1,6 @@
+---
+title: "Manuals, Repair, and Troubleshooting"
+format: html
+---
+
+[PSD Daily VTM Work Record](https://docs.google.com/spreadsheets/d/1mzSeF9L82S3VYXTw7s0hrN93_Dbgd7KvBFEaP-jP6B0/edit?usp=sharing)

@@ -1,0 +1,39 @@
+---
+title: "Daily Ops"
+format: html
+---
+
+[PSD Daily VTM Work Record](https://docs.google.com/spreadsheets/d/1mzSeF9L82S3VYXTw7s0hrN93_Dbgd7KvBFEaP-jP6B0/edit?usp=sharing){.external target="_blank"}
+
+##  NWHI Requirements
+
+-   [Field Camp Float Plans VOP Upload Format](https://docs.google.com/spreadsheets/d/1QaqFrt_tGYiQMeEUm2fltOKB2y-yfYUxqej2WSAEzZ4/edit?usp=sharing){.external target="_blank"}
+
+
+#### RHIBs:
+-   [NWHI Field Camp Vessel Operations](https://docs.google.com/document/d/1NNs68DoSrELyjusWC1ZVkR8MjxJ9XsHQMeryGB4mAsc/edit?usp=sharing){.external target="_blank"}
+-   [NWHI Field Camp PQS](https://docs.google.com/document/d/1nDJvj6X5NPyWEE5J8D0v2NPDWdXy-hNx/edit?usp=sharing&ouid=111160936144270501572&rtpof=true&sd=true){.external target="_blank"}
+
+#### Kayaks:
+-   [NWHI Kayak Protocol](https://docs.google.com/document/d/1wtiQc4GI6ty-QAmoRidBUTmOI3M0vJewv8oE2USq6-U/edit?usp=sharing){.external target="_blank"}
+
+
+##  MHI Requirements
+
+Float plan required on [Floatplan.gov](https://floatplan.noaa.gov/vop/r/pub_workspace/vop/login?session=17401576211816&tz=-10:00){.external target="_blank"}
+
+#### RHIBs:
+-   [Startup/Shutdown Checklist](https://drive.google.com/file/d/1-OIR9TPiP0LuWDK2OeL07i3m_Hpcymsc/view?usp=sharing){.external target="_blank"}
+
+#### Kayaks:
+-   [MHI Startup Checklist](https://docs.google.com/document/d/1OQ-5hbsjefVWnxRmNOGre26sSFG0YXzScgbAskmgY4w/edit?usp=sharing){.external target="_blank"}
+-   [MHI Shutdown Checklist](https://docs.google.com/document/d/18ITk3ieefQ92AHqtWqoYMZlpYDR2mE-8ATOIA-falhw/edit?usp=sharing){.external target="_blank"}
+-   [MHI Kayak Protocol](https://docs.google.com/document/d/1pSxq7lqfW3zUknQgqCmMf6gn3bio51Uu/edit?usp=sharing&ouid=111160936144270501572&rtpof=true&sd=true){.external target="_blank"}
+-   [MHI Kayak PQS](https://docs.google.com/document/d/1fHgAhn9u37BFe_QGZqw-XwTms4FSXg0n/edit?usp=sharing&ouid=111160936144270501572&rtpof=true&sd=true){.external target="_blank"}
+
+#### Wings:
+-   [Startup/Shutdown Checklists](https://docs.google.com/document/d/1hZSpEkGO3IX4ue5ThteJeiUTVCmhcPBy_oBlY3_x_v8/edit?usp=sharing){.external target="_blank"}
+-   [Entanglement Response Gear Checklist](https://docs.google.com/document/d/1mmgl90p2iD3lxpYIgsohPWMMid8njzHZvU_s9c0720s/edit?usp=sharing)
+-   [Response Checklist](https://drive.google.com/file/d/0Bxc4KVQUQaiOa3YwdkFyUUJoV00/view?usp=drive_link&resourcekey=0-s0hPZb-Tz6tDQ5B-JxQGEA){.external target="_blank"}
+-   [Post-Response Checklist](https://drive.google.com/file/d/0Bxc4KVQUQaiORlV3RXJmY3BNOWs/view?usp=drive_link&resourcekey=0-sXiuYkdOrDCLYmkLfLKFlA){.external target="_blank"}
+-   [Response Documentation Checklist](https://drive.google.com/file/d/0Bxc4KVQUQaiOMFdnSUJoOHpoRnM/view?usp=sharing&resourcekey=0-Mjo05V7M9rHVQBVAAXsKPw){.external target="_blank"}
