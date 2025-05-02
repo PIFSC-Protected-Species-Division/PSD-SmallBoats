@@ -3,3 +3,7 @@ title: "Boats"
 format: html
 ---
 
+##  Sub-Pages:
+-   [Records](https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/BoatRecords.html)
+-   [Manuals, Repair, and Troubleshooting](https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/Manuals_Repair_Troubleshooting.html)
+-   [Comms/Emergencies](https://pifsc-protected-species-division.github.io/PSD-SmallBoats/Boatcontent/Comms_Emergencies.html)

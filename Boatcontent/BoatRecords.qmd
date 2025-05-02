@@ -1,5 +1,5 @@
 ---
-title: "BoatRecords"
+title: "Boat Records"
 format: html
 ---
 ##  Wings (Class A)
