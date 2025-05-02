@@ -11,3 +11,10 @@ format: html
 
 ##  MHI:
 See [SOD Small Boat Operator Handbook](https://drive.google.com/file/d/1DgNCcmMHE9xOkrIXJXx3rUcFLT-p0nwW/view?usp=drive_link){.external target="_blank"}
+
+##  EPIRB/PLBs
+-   [HMSRP EPIRBs & PLBs](https://docs.google.com/spreadsheets/d/1_55uP-XQJ3p6Z0UyBar_31t_qr1x0Xa1mkqcY49exxE/edit?usp=sharing){.external target="_blank"}
+-   [MTBAP EPIRBs & PLBs](https://docs.google.com/spreadsheets/d/1xyiP0BPWvKW-PGI-SbMeqzFXWVGwyREz/edit?usp=sharing&ouid=111160936144270501572&rtpof=true&sd=true){.external target="_blank"}
+
+##  Liferafts
+See [Liferaft Inspection Folder](https://drive.google.com/drive/folders/1HXfEFcswhMnSmoz5Y6e0rrw-fDrt3ENP?usp=drive_link){.external target="_blank"}
