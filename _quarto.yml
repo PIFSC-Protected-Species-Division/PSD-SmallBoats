@@ -52,7 +52,7 @@ website:
       - section: Boatcontent/Requirements.qmd
         text: Requirements
         contents: 
-          - href: Boatcontent/NOAA_general.qmd
+          - href: Boatcontent/NOAA_General.qmd
             text: NOAA General Reqs
           - href: Boatcontent/Training.qmd
             text: Training
