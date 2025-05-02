@@ -174,86 +174,14 @@
     "text": "Footnotes\n\n\nFrom building developer’s webpage↩︎"
   },
   {
-    "objectID": "Boatcontent/Manuals_Repair_Troubleshooting.html",
-    "href": "Boatcontent/Manuals_Repair_Troubleshooting.html",
-    "title": "Manuals, Repair, and Troubleshooting",
+    "objectID": "Boatcontent/Equipment.html",
+    "href": "Boatcontent/Equipment.html",
+    "title": "Equipment",
     "section": "",
-    "text": "PSD Daily VTM Work Record"
-  },
-  {
-    "objectID": "Boatcontent/NOAA_General.html",
-    "href": "Boatcontent/NOAA_General.html",
-    "title": "NOAA General Requirments",
-    "section": "",
-    "text": "The following administrative documents must be carried on board all vessels or filed ashore prior to getting underway.",
+    "text": "E-Kit Inventories",
     "crumbs": [
       "Requirements",
-      "NOAA General Reqs"
-    ]
-  },
-  {
-    "objectID": "Boatcontent/NOAA_General.html#general",
-    "href": "Boatcontent/NOAA_General.html#general",
-    "title": "NOAA General Requirments",
-    "section": "General",
-    "text": "General\n\nSmall Boat Standards and Procedures Manual 4.2 (SBS&PM)",
-    "crumbs": [
-      "Requirements",
-      "NOAA General Reqs"
-    ]
-  },
-  {
-    "objectID": "Boatcontent/NOAA_General.html#boat-specific-form-templates",
-    "href": "Boatcontent/NOAA_General.html#boat-specific-form-templates",
-    "title": "NOAA General Requirments",
-    "section": "Boat-Specific Form Templates",
-    "text": "Boat-Specific Form Templates\nSee individual boat pages for completed copies\n\nSmall Boat Operations Manual (SBOM)\nBaseline Risk Assessment (Reviewed Annually)\nMission Based Risk Assessment (Updated when change in operation)\nSmall Boat Log\n\nOfficial Logbook Entry Requirements\n\nStability Log",
-    "crumbs": [
-      "Requirements",
-      "NOAA General Reqs"
-    ]
-  },
-  {
-    "objectID": "Boatcontent/NOAA_General.html#daily-forms",
-    "href": "Boatcontent/NOAA_General.html#daily-forms",
-    "title": "NOAA General Requirments",
-    "section": "Daily Forms",
-    "text": "Daily Forms\n\nFloat Plan\nGAR\nSafety Briefing",
-    "crumbs": [
-      "Requirements",
-      "NOAA General Reqs"
-    ]
-  },
-  {
-    "objectID": "Boatcontent/NOAA_General.html#placards",
-    "href": "Boatcontent/NOAA_General.html#placards",
-    "title": "NOAA General Requirments",
-    "section": "Placards",
-    "text": "Placards\n\nAll motorized small boats must have a sign or placard, prohibiting the discharge of oil or oily waste per 33 CFR 155.450. These signs can be purchased at most marine supply stores.\nAll motorized small boats must have a sign or placard, listing regulations for discharging garbage per Annex V of MARPOL. These signs can be purchased at most marine supply stores.",
-    "crumbs": [
-      "Requirements",
-      "NOAA General Reqs"
-    ]
-  },
-  {
-    "objectID": "Boatcontent/Requirements.html",
-    "href": "Boatcontent/Requirements.html",
-    "title": "General Requirments",
-    "section": "",
-    "text": "Documents\nTraining\nEquipment",
-    "crumbs": [
-      "Requirements"
-    ]
-  },
-  {
-    "objectID": "Boatcontent/Training.html#training",
-    "href": "Boatcontent/Training.html#training",
-    "title": "Training",
-    "section": "Training",
-    "text": "Training\nStep 1: Review the NOAA Small Boat Standards and Procedures Manual, and then take the SBS&PM Policy Test either here via Google Form or over in CLC. Email the date(s) only of your review & passing test score to hope.ronco@noaa.gov. The test was updated recently so please take it regardless of the timing of your previous review/test.\nAdditional Trainings:\n\nHawaii Boat Safety Course(8 hours online, email cert to hope.ronco@noaa.gov and lizabeth.kashinsky@noaa.gov)\nMOCC\nNOAA Component\nOpen Water Module (OWM)\nPQS:\n\nNWHI Field Camp PQS\n\n\nNOAA Small Boat Operator and Crewmember Authorization Form",
-    "crumbs": [
-      "Requirements",
-      "Training"
+      "Equipment"
     ]
   },
   {
@@ -312,14 +240,134 @@
     ]
   },
   {
-    "objectID": "Boatcontent/Equipment.html",
-    "href": "Boatcontent/Equipment.html",
-    "title": "Equipment",
-    "section": "",
-    "text": "E-Kit Inventories",
+    "objectID": "Boatcontent/Training.html#training",
+    "href": "Boatcontent/Training.html#training",
+    "title": "Training",
+    "section": "Training",
+    "text": "Training\nStep 1: Review the NOAA Small Boat Standards and Procedures Manual, and then take the SBS&PM Policy Test either here via Google Form or over in CLC. Email the date(s) only of your review & passing test score to hope.ronco@noaa.gov. The test was updated recently so please take it regardless of the timing of your previous review/test.\nAdditional Trainings:\n\nHawaii Boat Safety Course(8 hours online, email cert to hope.ronco@noaa.gov and lizabeth.kashinsky@noaa.gov)\nMOCC\nNOAA Component\nOpen Water Module (OWM)\nPQS:\n\nNWHI Field Camp PQS\n\n\nNOAA Small Boat Operator and Crewmember Authorization Form",
     "crumbs": [
       "Requirements",
-      "Equipment"
+      "Training"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/Requirements.html",
+    "href": "Boatcontent/Requirements.html",
+    "title": "General Requirments",
+    "section": "",
+    "text": "Documents\nTraining\nEquipment",
+    "crumbs": [
+      "Requirements"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/NOAA_General.html",
+    "href": "Boatcontent/NOAA_General.html",
+    "title": "NOAA General Requirments",
+    "section": "",
+    "text": "The following administrative documents must be carried on board all vessels or filed ashore prior to getting underway.",
+    "crumbs": [
+      "Requirements",
+      "NOAA General Reqs"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/NOAA_General.html#general",
+    "href": "Boatcontent/NOAA_General.html#general",
+    "title": "NOAA General Requirments",
+    "section": "General",
+    "text": "General\n\nSmall Boat Standards and Procedures Manual 4.2 (SBS&PM)",
+    "crumbs": [
+      "Requirements",
+      "NOAA General Reqs"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/NOAA_General.html#boat-specific-form-templates",
+    "href": "Boatcontent/NOAA_General.html#boat-specific-form-templates",
+    "title": "NOAA General Requirments",
+    "section": "Boat-Specific Form Templates",
+    "text": "Boat-Specific Form Templates\nSee individual boat pages for completed copies\n\nSmall Boat Operations Manual (SBOM)\nBaseline Risk Assessment (Reviewed Annually)\nMission Based Risk Assessment (Updated when change in operation)\nSmall Boat Log\n\nOfficial Logbook Entry Requirements\n\nStability Log",
+    "crumbs": [
+      "Requirements",
+      "NOAA General Reqs"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/NOAA_General.html#daily-forms",
+    "href": "Boatcontent/NOAA_General.html#daily-forms",
+    "title": "NOAA General Requirments",
+    "section": "Daily Forms",
+    "text": "Daily Forms\n\nFloat Plan\nGAR\nSafety Briefing",
+    "crumbs": [
+      "Requirements",
+      "NOAA General Reqs"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/NOAA_General.html#placards",
+    "href": "Boatcontent/NOAA_General.html#placards",
+    "title": "NOAA General Requirments",
+    "section": "Placards",
+    "text": "Placards\n\nAll motorized small boats must have a sign or placard, prohibiting the discharge of oil or oily waste per 33 CFR 155.450. These signs can be purchased at most marine supply stores.\nAll motorized small boats must have a sign or placard, listing regulations for discharging garbage per Annex V of MARPOL. These signs can be purchased at most marine supply stores.",
+    "crumbs": [
+      "Requirements",
+      "NOAA General Reqs"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/Manuals_Repair_Troubleshooting.html",
+    "href": "Boatcontent/Manuals_Repair_Troubleshooting.html",
+    "title": "Manuals, Repair, and Troubleshooting",
+    "section": "",
+    "text": "PSD Daily VTM Work Record\nPSD Boat Infor Master Quick Ref",
+    "crumbs": [
+      "Boats",
+      "Manuals, Repair, Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/Manuals_Repair_Troubleshooting.html#resource-folders",
+    "href": "Boatcontent/Manuals_Repair_Troubleshooting.html#resource-folders",
+    "title": "Manuals, Repair, and Troubleshooting",
+    "section": "Resource Folders:",
+    "text": "Resource Folders:\n\nTrailers\nEngines\nElectronics Guides/Cheat Sheets\nBoats(hulls)",
+    "crumbs": [
+      "Boats",
+      "Manuals, Repair, Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/Comms_Emergencies.html",
+    "href": "Boatcontent/Comms_Emergencies.html",
+    "title": "Comms/Emergencies",
+    "section": "",
+    "text": "NWHI Comms Protocol\nNWHI Emergency Protocol\nField Camp and Regular Emergency Contacts\nNWHI Field Camp Illness and Injury Mitigation Plan",
+    "crumbs": [
+      "Boats",
+      "Comms/Emergencies"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/Comms_Emergencies.html#nwhi",
+    "href": "Boatcontent/Comms_Emergencies.html#nwhi",
+    "title": "Comms/Emergencies",
+    "section": "",
+    "text": "NWHI Comms Protocol\nNWHI Emergency Protocol\nField Camp and Regular Emergency Contacts\nNWHI Field Camp Illness and Injury Mitigation Plan",
+    "crumbs": [
+      "Boats",
+      "Comms/Emergencies"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/Comms_Emergencies.html#mhi",
+    "href": "Boatcontent/Comms_Emergencies.html#mhi",
+    "title": "Comms/Emergencies",
+    "section": "MHI:",
+    "text": "MHI:\nSee SOD Small Boat Operator Handbook",
+    "crumbs": [
+      "Boats",
+      "Comms/Emergencies"
     ]
   },
   {
@@ -439,6 +487,6 @@
     "href": "Boatcontent/Daily_Ops.html#mhi-requirements",
     "title": "Daily Ops",
     "section": "MHI Requirements",
-    "text": "MHI Requirements\nFloat plan required on Floatplan.gov\n\nRHIBs:\n\nStartup/Shutdown Checklist\n\n\n\nKayaks:\n\nMHI Startup Checklist\nMHI Shutdown Checklist\nMHI Kayak Protocol\nMHI Kayak PQS\n\n\n\nWings:\n\nStartup/Shutdown Checklists\nEntanglement Response Gear Checklist\nResponse Checklist\nPost-Response Checklist\nResponse Documentation Checklist"
+    "text": "MHI Requirements\nFloat plan required on Floatplan.gov\n\nRHIBs:\n\nStartup/Shutdown Checklist\nMHI Small Boat Operator Handbook\n\n\n\nKayaks:\n\nMHI Startup Checklist\nMHI Shutdown Checklist\nMHI Kayak Protocol\nMHI Kayak PQS\n\n\n\nWings:\n\nStartup/Shutdown Checklists\nEntanglement Response Gear Checklist\nResponse Checklist\nPost-Response Checklist\nResponse Documentation Checklist"
   }
 ]
