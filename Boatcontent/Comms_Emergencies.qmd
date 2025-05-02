@@ -1,0 +1,13 @@
+---
+title: "Comms/Emergencies"
+format: html
+---
+
+##  NWHI:
+-   [NWHI Comms Protocol](https://docs.google.com/document/d/14fkwFLLkIIj8OV80xEg5G0lzZ_OlKp1EUlolTRfRF5w/edit?usp=sharing){.external target="_blank"}
+-   [NWHI Emergency Protocol](https://docs.google.com/document/d/1bct9mv_JhczIkr7Bhx5W_txtQa4fKo_Hba9diohxQ54/edit?usp=drive_link){.external target="_blank"}
+-   [Field Camp and Regular Emergency Contacts](https://docs.google.com/document/d/1OgxWw3GioTt9gAzqMgC1TEgmVWUEs9ZGwl95qgde2Ig/edit?usp=drive_link){.external target="_blank"}
+-   [NWHI Field Camp Illness and Injury Mitigation Plan](https://docs.google.com/document/d/1XpXBhXfYftiAGn0ggQ4B7xPdO8QSCIR5/edit?usp=drive_link&ouid=111160936144270501572&rtpof=true&sd=true){.external target="_blank"}
+
+##  MHI:
+See [SOD Small Boat Operator Handbook](https://drive.google.com/file/d/1DgNCcmMHE9xOkrIXJXx3rUcFLT-p0nwW/view?usp=drive_link){.external target="_blank"}

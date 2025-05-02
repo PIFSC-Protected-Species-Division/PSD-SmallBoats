@@ -63,7 +63,10 @@ website:
         contents: 
           - href: Boatcontent/BoatRecords.qmd
             text: Records
-
+          - href: Boatcontent/Manuals_Repair_Troubleshooting.qmd
+            text: Manuals, Repair, Troubleshooting
+          - href: Boatcontent/Comms_Emergencies.qmd
+            text: Comms/Emergencies            
 format:
   html:
     theme:

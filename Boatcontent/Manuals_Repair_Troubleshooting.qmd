@@ -3,4 +3,13 @@ title: "Manuals, Repair, and Troubleshooting"
 format: html
 ---
 
-[PSD Daily VTM Work Record](https://docs.google.com/spreadsheets/d/1mzSeF9L82S3VYXTw7s0hrN93_Dbgd7KvBFEaP-jP6B0/edit?usp=sharing)
+[PSD Daily VTM Work Record](https://docs.google.com/spreadsheets/d/1mzSeF9L82S3VYXTw7s0hrN93_Dbgd7KvBFEaP-jP6B0/edit?usp=sharing){.external target="_blank"}
+
+[PSD Boat Infor Master Quick Ref](https://docs.google.com/spreadsheets/d/1w60YNq_O4G3o9WcinM-MV16-Cc9tFQcZ-yTEPtC9wms/edit?usp=drive_link){.external target="_blank"}
+
+##  Resource Folders:
+
+-   [Trailers](https://drive.google.com/drive/folders/1Pk6EOrxn8wUNYMY_qArAcB-aifR_qrZN?usp=sharing){.external target="_blank"}
+-   [Engines](https://drive.google.com/drive/folders/1LiX624DJYv1gqVHXsjmH4JnHeODrHCGH?usp=drive_link){.external target="_blank"}
+-   [Electronics Guides/Cheat Sheets](https://drive.google.com/drive/folders/1RoaF2D13Nhv-Q0dtjP11Fkb_gyP1aS_I?usp=drive_link){.external target="_blank"}
+-   [Boats(hulls)](https://drive.google.com/drive/folders/1ouBSVwjuX46ZgSBrf1Gc1KzFEltjEKWn?usp=drive_link){.external target="_blank"}
