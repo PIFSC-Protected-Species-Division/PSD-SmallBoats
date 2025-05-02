@@ -187,7 +187,7 @@
   {
     "objectID": "Boatcontent/BoatRecords.html",
     "href": "Boatcontent/BoatRecords.html",
-    "title": "BoatRecords",
+    "title": "Boat Records",
     "section": "",
     "text": "F1536 - Whale Wing\nF1535 - FFS2 Wing\nF1534 - PHR2 Wing",
     "crumbs": [
@@ -198,7 +198,7 @@
   {
     "objectID": "Boatcontent/BoatRecords.html#wings-class-a",
     "href": "Boatcontent/BoatRecords.html#wings-class-a",
-    "title": "BoatRecords",
+    "title": "Boat Records",
     "section": "",
     "text": "F1536 - Whale Wing\nF1535 - FFS2 Wing\nF1534 - PHR2 Wing",
     "crumbs": [
@@ -209,7 +209,7 @@
   {
     "objectID": "Boatcontent/BoatRecords.html#rhibs-class-i",
     "href": "Boatcontent/BoatRecords.html#rhibs-class-i",
-    "title": "BoatRecords",
+    "title": "Boat Records",
     "section": "RHIBs (Class I)",
     "text": "RHIBs (Class I)\n\nF1931 - Iwalua\nF1924 - Iwa\nF1823 - Elele\nF1822 - Kukini",
     "crumbs": [
@@ -220,7 +220,7 @@
   {
     "objectID": "Boatcontent/BoatRecords.html#mhi-kayaks-class-a",
     "href": "Boatcontent/BoatRecords.html#mhi-kayaks-class-a",
-    "title": "BoatRecords",
+    "title": "Boat Records",
     "section": "MHI Kayaks (Class A)",
     "text": "MHI Kayaks (Class A)\n\nF1219 - Harting\nF1214 - Dunlap\nF1213 - Billand",
     "crumbs": [
@@ -231,7 +231,7 @@
   {
     "objectID": "Boatcontent/BoatRecords.html#nwhi-kayaks-class-a",
     "href": "Boatcontent/BoatRecords.html#nwhi-kayaks-class-a",
-    "title": "BoatRecords",
+    "title": "Boat Records",
     "section": "NWHI Kayaks (Class A)",
     "text": "NWHI Kayaks (Class A)\n\nF0902 - FFS Kayak\nF0901 - PHR Seeker",
     "crumbs": [
@@ -371,6 +371,26 @@
     ]
   },
   {
+    "objectID": "Boatcontent/Boats.html",
+    "href": "Boatcontent/Boats.html",
+    "title": "Boats",
+    "section": "",
+    "text": "Records\nManuals, Repair, and Troubleshooting\nComms/Emergencies",
+    "crumbs": [
+      "Boats"
+    ]
+  },
+  {
+    "objectID": "Boatcontent/Boats.html#sub-pages",
+    "href": "Boatcontent/Boats.html#sub-pages",
+    "title": "Boats",
+    "section": "",
+    "text": "Records\nManuals, Repair, and Troubleshooting\nComms/Emergencies",
+    "crumbs": [
+      "Boats"
+    ]
+  },
+  {
     "objectID": "Boatcontent/NMFS_OpenSciDirections/publishing.html",
     "href": "Boatcontent/NMFS_OpenSciDirections/publishing.html",
     "title": "Publishing",
@@ -471,22 +491,34 @@
   {
     "objectID": "Boatcontent/Daily_Ops.html",
     "href": "Boatcontent/Daily_Ops.html",
-    "title": "Daily Ops",
+    "title": "PSD Daily Ops",
     "section": "",
-    "text": "PSD Daily VTM Work Record"
+    "text": "PSD Daily VTM Work Record",
+    "crumbs": [
+      "Requirements",
+      "PSD Daily Ops"
+    ]
   },
   {
     "objectID": "Boatcontent/Daily_Ops.html#nwhi-requirements",
     "href": "Boatcontent/Daily_Ops.html#nwhi-requirements",
-    "title": "Daily Ops",
+    "title": "PSD Daily Ops",
     "section": "NWHI Requirements",
-    "text": "NWHI Requirements\n\nField Camp Float Plans VOP Upload Format\n\n\nRHIBs:\n\nNWHI Field Camp Vessel Operations\nNWHI Field Camp PQS\n\n\n\nKayaks:\n\nNWHI Kayak Protocol"
+    "text": "NWHI Requirements\n\nField Camp Float Plans VOP Upload Format\n\n\nRHIBs:\n\nNWHI Field Camp Vessel Operations\nNWHI Field Camp PQS\n\n\n\nKayaks:\n\nNWHI Kayak Protocol",
+    "crumbs": [
+      "Requirements",
+      "PSD Daily Ops"
+    ]
   },
   {
     "objectID": "Boatcontent/Daily_Ops.html#mhi-requirements",
     "href": "Boatcontent/Daily_Ops.html#mhi-requirements",
-    "title": "Daily Ops",
+    "title": "PSD Daily Ops",
     "section": "MHI Requirements",
-    "text": "MHI Requirements\nFloat plan required on Floatplan.gov\n\nRHIBs:\n\nStartup/Shutdown Checklist\nMHI Small Boat Operator Handbook\n\n\n\nKayaks:\n\nMHI Startup Checklist\nMHI Shutdown Checklist\nMHI Kayak Protocol\nMHI Kayak PQS\n\n\n\nWings:\n\nStartup/Shutdown Checklists\nEntanglement Response Gear Checklist\nResponse Checklist\nPost-Response Checklist\nResponse Documentation Checklist"
+    "text": "MHI Requirements\nFloat plan required on Floatplan.gov\n\nRHIBs:\n\nStartup/Shutdown Checklist\nMHI Small Boat Operator Handbook\n\n\n\nKayaks:\n\nMHI Startup Checklist\nMHI Shutdown Checklist\nMHI Kayak Protocol\nMHI Kayak PQS\n\n\n\nWings:\n\nStartup/Shutdown Checklists\nEntanglement Response Gear Checklist\nResponse Checklist\nPost-Response Checklist\nResponse Documentation Checklist",
+    "crumbs": [
+      "Requirements",
+      "PSD Daily Ops"
+    ]
   }
 ]
